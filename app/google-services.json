@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "451813264724",
+    "firebase_url": "https://carfixtracker-7be2b.firebaseio.com",
+    "project_id": "carfixtracker-7be2b",
+    "storage_bucket": "carfixtracker-7be2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451813264724:android:7ec3f9f069e7f2fc",
+        "android_client_info": {
+          "package_name": "com.example.clang.carfixtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451813264724-pbjt6j06r0ooo399iipk8aju4uqkuj2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clang.carfixtracker",
+            "certificate_hash": "8e0c2327f750c5519b6a262a6314b784d9ef381a"
+          }
+        },
+        {
+          "client_id": "451813264724-fulb3on45cv9ss0p3iom3acveq8ecitv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJMTOv95i0ON97v_440NOSEcWH-88dpK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451813264724-fulb3on45cv9ss0p3iom3acveq8ecitv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

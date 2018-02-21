@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CarFixTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="carFix">CarFix</string>
+    <string name="carFixExplan">Fast and Reliable concierge service</string>
+    <string name="trackProgress">Track Progress</string>
+    <string name="enterEmailAddress">Please Enter Email Address</string>
+    <string name="enterEmail">Email Address</string>
+    <string name="enterNumberPlate">Please Enter Number Plate</string>
+    <string name="numberPlate">Number Plate</string>
+    <string name="track">Track Progress</string>
+    <string name="enterJobDetails">Login</string>
+    <string name="enterFullName">Enter First and Last Name</string>
+    <string name="enterFirstAndLastName">Please Enter First and Last Name</string>
+</resources>
